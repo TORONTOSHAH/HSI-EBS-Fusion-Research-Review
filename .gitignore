@@ -1,0 +1,36 @@
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.brf
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.toc
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.run.xml
+
+# Output PDFs
+*.pdf
+
+# Mac system files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.synctex
