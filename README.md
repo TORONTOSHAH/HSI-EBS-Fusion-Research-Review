@@ -15,20 +15,7 @@ Implementation of Total Variation–Cascaded Denoiser (TV–CD) reconstruction a
 
 Evaluation using real-world field experiments and simulated datasets.
 
-Project Structure
-HSI-EBS-Fusion-Research-Review/
-│
-├── main.tex                 # Main LaTeX source file
-├── references.bib           # Bibliography file
-├── figures/                 # All figures and diagrams
-│   ├── HSI_EBS_system.png
-│   ├── Spectral_Temporal_Fusion.png
-│   ├── Sweeping_Rainbow.png
-│   └── other images...
-├── .gitignore               # Ignore temporary and build files
-└── README.md                # This file
-
-⚙️ Requirements
+Requirements
 
 To compile the LaTeX document:
 
@@ -75,20 +62,7 @@ Contact: via GitHub Issues or Discussions
 
 Экспериментальная проверка на реальных данных и моделях.
 
-Структура проекта
-HSI-EBS-Fusion-Research-Review/
-│
-├── main.tex                 # Основной LaTeX-файл
-├── references.bib           # Список литературы
-├── figures/                 # Изображения и диаграммы
-│   ├── HSI_EBS_system.png
-│   ├── Spectral_Temporal_Fusion.png
-│   ├── Sweeping_Rainbow.png
-│   └── другие изображения...
-├── .gitignore               # Игнорируемые файлы
-└── README.md                # Этот файл
-
-⚙️ Требования
+Требования
 
 Для компиляции документа:
 
